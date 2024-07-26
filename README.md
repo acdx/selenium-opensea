@@ -1,2 +1,1 @@
-# ClosedSEA
-We close SEA :)
+# selenium-opensea
